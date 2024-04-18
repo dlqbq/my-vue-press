@@ -3,6 +3,8 @@ title: Blogging Like a Hacker
 lang: en-US
 ---
 
+[[toc]]
+
 ::: tip
 这是一个提示
 :::
