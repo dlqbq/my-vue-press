@@ -27,7 +27,7 @@ jobs:
       #   run: pnpm run docs:build
 
       - name: Build Docs
-        run: pnpm run docs:build
+        run: pnpm run build
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2
