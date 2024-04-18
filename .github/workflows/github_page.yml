@@ -32,7 +32,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2
         with:
-          repo: my-vue-press/dlqbq.github.io
+          repo: my-vue-press
           target_branch: gh-pages
           build_dir: docs/.vuepress/dist
         env:
