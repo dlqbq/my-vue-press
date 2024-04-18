@@ -1,0 +1,16 @@
+{
+  "name": "my-vue-press",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "SET NODE_OPTIONS=--openssl-legacy-provider && vuepress dev docs",
+    "docs:build": "SET NODE_OPTIONS=--openssl-legacy-provider && vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  }
+}
